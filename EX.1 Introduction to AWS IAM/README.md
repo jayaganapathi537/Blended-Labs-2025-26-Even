@@ -42,8 +42,15 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Verified S3 access for user-1  
 - Verified EC2 read-only access for user-2  
 - Verified EC2 administrative access for user-3  
-**Screenshot:**  
-(Add screenshot here)
+**Screenshot:**
+  
+<img width="1440" height="900" alt="Screenshot 2026-02-06 at 8 29 53 AM" src="https://github.com/user-attachments/assets/87f56465-2b9a-4ffb-8bab-da36dc4f33b3" />
+
+
+<img width="1440" height="900" alt="Screenshot 2026-02-06 at 8 31 38 AM" src="https://github.com/user-attachments/assets/00cde7f6-e9cc-46ad-8cb7-f3102d252750" />
+
+
+<img width="1440" height="900" alt="Screenshot 2026-02-06 at 8 55 44 AM" src="https://github.com/user-attachments/assets/1c59c726-3244-4b9a-a7b0-a7d3d66ed6ef" />
 
 
 ## Workflow
