@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: JAYAGANAPATHI S
+* **Register Number**: 212224040133
+* **Date of Submission**: 19/02/2026
 
 ---
 
@@ -87,31 +87,27 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
-
----
+1. Create a VPC.
+2. Create subnets.
+3. Configure a security group.
+4. Launch an EC2 instance into a VPC.
 
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: VPC and Subnet Details
-
-(Insert Screenshot Here)
+<img width="1600" height="851" alt="image" src="https://github.com/user-attachments/assets/4b357ed3-0b9b-417d-b61f-a37896049aa2" />
 
 ---
 
 ### Screenshot 2: EC2 Instance Running
 
-(Insert Screenshot Here)
+<img width="1600" height="861" alt="image" src="https://github.com/user-attachments/assets/2bf93a0c-03ef-41d3-b323-cd044509a76f" />
 
 ---
 
 ### Screenshot 3: Web Server Output in Browser
 
-(Insert Screenshot Here)
+<img width="1013" height="460" alt="Screenshot 2026-02-19 at 10 57 49 PM" src="https://github.com/user-attachments/assets/261dd667-35c2-4993-99bc-9783431f762b" />
 
 ---
 
